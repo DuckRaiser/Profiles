@@ -139,8 +139,7 @@ DOMAIN-SUFFIX,deepdiscount.com,PROXY
 DOMAIN-SUFFIX,depositphotos.com,PROXY
 DOMAIN-SUFFIX,deviantart.com,PROXY
 DOMAIN-SUFFIX,disconnect.me,PROXY
-DOMAIN-SUFFIX,discordapp.com,PROXY
-DOMAIN-SUFFIX,discordapp.net,PROXY
+DOMAIN-KEYWORD,discord,PROXY
 DOMAIN-SUFFIX,disqus.com,PROXY
 DOMAIN-SUFFIX,dlercloud.com,PROXY
 DOMAIN-SUFFIX,dmhy.org,PROXY
